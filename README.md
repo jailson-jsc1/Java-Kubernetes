@@ -1,5 +1,6 @@
 #Excelente material para estudo
-#Gratidão! 
+Gratidão Prof. Sandro! 
+Digital Innovation One.
 
 # Java and Kubernetes
 
