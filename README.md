@@ -1,4 +1,4 @@
-#Excelente material para estudo
+Excelente material para estudo
 Gratidão Prof. Sandro! 
 Digital Innovation One.
 
